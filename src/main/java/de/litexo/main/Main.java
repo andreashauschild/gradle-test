@@ -1,4 +1,4 @@
-package test;
+package de.litexo.main;
 
 /**
  * @author inacta AG
